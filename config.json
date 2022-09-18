@@ -1,0 +1,4 @@
+{
+    "GetAllInstalledApps_Api":"http://localhost:3000/api/getallapps",
+    "Get_Api":"http://localhost:3000/api/"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "wrapper18",
+  "version": "1.0.3",
+  "description": "sends message to children",
+  "main": "wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram182001/wrapper18.git"
+  },
+  "author": "sr18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriram182001/wrapper18/issues"
+  },
+  "homepage": "https://github.com/sriram182001/wrapper18#readme"
+}
